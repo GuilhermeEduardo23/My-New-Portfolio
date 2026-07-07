@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+    body {
+        @apply antialiased text-black;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #5C94FC;
+    border-left: 4px solid black;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #E52521;
+    border: 3px solid black;
+}
