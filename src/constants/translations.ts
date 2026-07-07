@@ -12,7 +12,7 @@ export interface Repo {
 export const dict = {
   pt: {
     toggleLang: "English",
-    role: "Especialista Técnico de TI & Desenvolvedor de Software",
+    role: "Help Desk & Desenvolvedor de Software",
     location: "Sesimbra, Portugal",
     aboutTitle: "Sobre Mim",
     aboutText:
@@ -62,9 +62,9 @@ export const dict = {
   },
   en: {
     toggleLang: "Português",
-    role: "IT Technical Specialist & Software Developer",
+    role: "Help Desk & Software Developer",
     location: "Sesimbra, Portugal",
-    aboutTitle: "Summary",
+    aboutTitle: "About Me",
     aboutText:
       "Information Technology professional with solid experience in specialized technical support, network administration, and systems development. Holder of a Bachelor's degree in Information Systems, with advanced skills in infrastructure (Ubiquiti UniFi, Windows/Linux servers) and software development (Java 8, SQL, and modern Front-End ecosystem with React).",
     experienceTitle: "Professional Experience",
